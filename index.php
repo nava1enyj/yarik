@@ -2,6 +2,7 @@
 <?php require_once 'includes/modal.php'?>
 
     <main class="main mb-auto">
+        <?php require_once 'includes/response.php'?>
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
